@@ -189,8 +189,3 @@ Olist-Marketplace-Performance-Dashboard/
 └── README.md
 ---
 
-
-
-## Project Objective
-
-The overall objective of this project was to transform multiple Olist marketplace datasets into an interactive Power BI reporting solution that provides meaningful insights into marketplace performance, logistics, and customer behavior.
