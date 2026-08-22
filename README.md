@@ -1,5 +1,9 @@
 # Olist Marketplace Performance & Operations Dashboard
 
+# Power BI Dashboard
+
+[Download Olist Power BI Dashboard](https://drive.google.com/file/d/1WRoeDoI4FjR6KWPVVOoTI6r-NWfd36ut/view?usp=sharing)
+
 ## Project Overview
 
 This project presents a Power BI dashboard developed to analyze the performance and operational health of Olist, a Brazilian e-commerce marketplace connecting independent sellers with customers across Brazil.
