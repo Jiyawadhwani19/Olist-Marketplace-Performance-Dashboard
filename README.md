@@ -169,23 +169,27 @@ A maintainable workflow would include:
 ```text
 Olist-Marketplace-Performance-Dashboard/
 │
-├── README.md
-├── Olist_Dashboard.pbix
-├── Olist_Dashboard_Case_Study.pptx
+├── Dashboard Preview/
+│   ├── Customers.png
+│   ├── Logistics.png
+│   └── Overview.png
 │
-└── Data/
-    ├── Olist source table 1
-    ├── Olist source table 2
-    ├── Olist source table 3
-    ├── Olist source table 4
-    ├── Olist source table 5
-    ├── Olist source table 6
-    ├── Olist source table 7
-    ├── Olist source table 8
-    └── Olist source table 9
-```
-
+├── Datasets/
+│   ├── olist_customers_dataset.csv
+│   ├── olist_geolocation_dataset.zip
+│   ├── olist_order_items_dataset.csv
+│   ├── olist_order_payments_dataset.csv
+│   ├── olist_order_reviews_dataset.csv
+│   ├── olist_orders_dataset.csv
+│   ├── olist_products_dataset.csv
+│   ├── olist_sellers_dataset.csv
+│   └── product_category_name_translation.csv
+│
+├── Olist_Dashboard_Case_Study.pptx
+└── README.md
 ---
+
+
 
 ## Project Objective
 
